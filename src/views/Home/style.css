@@ -1,0 +1,8 @@
+.button-acept{
+    background-color: red;
+    color: white;
+}
+
+.button-acept :hover{
+    background-color: indianred;
+}
